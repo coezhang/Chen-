@@ -5,3 +5,6 @@ study note C
 for 循环使用range()
 使用变量无需先定义
 输出print时‘’后无需逗号分隔，同时，多个%d时放在一个括号里  %print('公鸡: %d只, 母鸡: %d只, 小鸡: %d只' % (x, y, z))
+//是整除的意思
+(x,y)=(y,x) if x>y else(x,y)表示将x,y中小值赋给x,大值赋给y
+(x,y)=(y,x)就可以做到x,y值的互换
