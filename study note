@@ -8,3 +8,4 @@ for 循环使用range()
 //是整除的意思
 (x,y)=(y,x) if x>y else(x,y)表示将x,y中小值赋给x,大值赋给y
 (x,y)=(y,x)就可以做到x,y值的互换
+从功能上 randint(a,b) == randrange(a,b+1)
